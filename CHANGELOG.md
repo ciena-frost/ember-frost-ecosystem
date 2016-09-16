@@ -1,3 +1,8 @@
+# 0.2.1
+* Fix typo in lts.json
+
+
+
 # 0.2.0
 * Add lts file
 * Add blueprint
