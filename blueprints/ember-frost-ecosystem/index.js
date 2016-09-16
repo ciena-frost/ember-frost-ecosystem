@@ -1,4 +1,3 @@
-/*jshint node:true*/
 module.exports = {
   description: '',
   normalizeEntityName: function () {
@@ -9,4 +8,4 @@ module.exports = {
   afterInstall: function () {
     return this.addAddonsToProject({ packages: [{name: 'ember-cli-ember-ecosystem'}] })
   }
-};
+}
