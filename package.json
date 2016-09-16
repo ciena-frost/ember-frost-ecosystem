@@ -1,6 +1,6 @@
 {
   "name": "ember-frost-ecosystem",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Frost groups of features that pin dependencies to an LTS range.",
   "directories": {
     "doc": "doc",
