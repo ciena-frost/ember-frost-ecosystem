@@ -1,3 +1,8 @@
+# 0.3.0
+* Add documentation
+* Fix #1 
+
+
 # 0.2.1
 * Fix typo in lts.json
 
