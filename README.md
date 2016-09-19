@@ -11,27 +11,16 @@
 
 # ember-frost-ecosystem
 
- * [Installation](#Installation)
- * [API](#API)
- * [Examples](#Examples)
- * [Contributing](#Contributing)
+ * [Description](#description)
+ * [Installation](#installation)
+ * [Links](#links)
+
+## Description
+Contains the Frost LTS ecosystem definition in `lts.json` and dependent on the Ember LTS ecosystem addon.
 
 ## Installation
 ```
 ember install ember-frost-ecosystem
-```
-
-## API
-
-| Attribute | Type | Value | Description |
-| --------- | ---- | ----- | ----------- |
-| ` ` | ` ` | ` ` | Coming soon |
-
-## Examples
-
-### Example
-```handlebars
-Coming soon
 ```
 
 ## Development
@@ -42,11 +31,6 @@ cd ember-frost-ecosystem
 npm install && bower install
 ```
 
-### Development Server
-A dummy application for development is available under `ember-frost-ecosystem/tests/dummy`.
-To run the server run `ember server` (or `npm start`) from the root of the repository and
-visit the app at http://localhost:4200.
-
-### Testing
-Run `npm test` from the root of the project to run linting checks as well as execute the test suite
-and output code coverage.
+## Links
+* Dependent on [ember-cli-ember-ecosystem](https://github.com/ciena-blueplanet/ember-cli-ember-ecosystem) 
+* [LTS file format](https://github.com/ciena-blueplanet/ember-cli-ecosystem-installer#lts-file-format)
