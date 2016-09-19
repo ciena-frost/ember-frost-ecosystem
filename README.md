@@ -32,5 +32,5 @@ npm install && bower install
 ```
 
 ## Links
-Dependent on [ember-cli-ember-ecosystem](https://github.com/ciena-blueplanet/ember-cli-ember-ecosystem)
-[LTS file format](https://github.com/ciena-blueplanet/ember-cli-ecosystem-installer#lts-file-format)
+* Dependent on [ember-cli-ember-ecosystem](https://github.com/ciena-blueplanet/ember-cli-ember-ecosystem) 
+* [LTS file format](https://github.com/ciena-blueplanet/ember-cli-ecosystem-installer#lts-file-format)
