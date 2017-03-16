@@ -1,3 +1,19 @@
 {
-  "ember-frost-list": "0.7.8"
+  "ember-frost-bunsen": "^14.19.1",
+  "ember-frost-core": "^1.10.0",
+  "ember-frost-date-picker": "^7.0.5",
+  "ember-frost-fields": "^4.2.4",
+  "ember-frost-file-picker": "^5.1.3",
+  "ember-frost-info-bar": "^8.3.3",
+  "ember-frost-list": "^5.5.3",
+  "ember-frost-modal": "^6.1.2",
+  "ember-frost-navigation": "^7.4.0",
+  "ember-frost-notifier": "^4.2.3",
+  "ember-frost-object-browser": "^17.0.8",
+  "ember-frost-popover": "^4.2.4",
+  "ember-frost-sidebar": "^4.0.0",
+  "ember-frost-sort": "^7.2.2",
+  "ember-frost-tabs": "^5.2.3",
+  "eslint-config-frost-standard": "^6.0.0",
+  "stylelint-config-frost-standard": "^1.0.2"
 }
