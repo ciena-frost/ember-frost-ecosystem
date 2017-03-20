@@ -1,3 +1,7 @@
+# 1.0.0 (2017-03-20)
+* **Fixed** build
+
+
 # 0.3.0
 * Add documentation
 * Fix #1 
